@@ -1,0 +1,1 @@
+Javascript, react, tailwind, lucide (ícones)
