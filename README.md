@@ -12,7 +12,6 @@
     </td>
   </tr>
 </table>
-Javascript, react, tailwind, lucide (ícones)
 
 ![fernandadiasm-repo-status](https://img.shields.io/badge/Status-Developing-lightgrey?style=for-the-badge&logo=headspace&logoColor=green&color=lightgrey)
 ![fernandadiasm-repo-license](https://img.shields.io/github/license/fernandadiasm/travelPlanner?style=for-the-badge&logo=unlicense&logoColor=purple&color=lightgrey)
@@ -268,6 +267,7 @@ Javascript, react, tailwind, lucide (ícones)
     </td>
     <td>
       Implementar a lógica para adicionar, editar e remover tarefas diárias.
+      <img align="right" src="https://user-images.githubusercontent.com/86276393/213449768-416cc5b4-e3a7-4774-85b8-9a58cb1f8ae6.png" alt="arrow icon" />
     </td>
      <tr>
     <td>
@@ -306,7 +306,6 @@ Javascript, react, tailwind, lucide (ícones)
     </td>
     <td>
       Realizar o deploy da aplicação
-      <img align="right" src="https://user-images.githubusercontent.com/86276393/213449768-416cc5b4-e3a7-4774-85b8-9a58cb1f8ae6.png" alt="arrow icon" />
     </td>
   </tr>
   </table>
