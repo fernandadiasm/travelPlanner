@@ -10,7 +10,10 @@ export default {
         sans: 'Inter',
       },
       boxShadow: {
-shape: '0px 8px 8px rgba(0,0,0,0.1), 0px 4px 4px rgba(o,0,0,0.1), opx 2px 2px rgba(0,0,0,0.1), 0px 0px 0px 1px rgba(0,0,0,0.1), insert 0px 1px 0px rgba(255, 255, 255, 0.03)'
+        shape: '0px 8px 8px rgba(0,0,0,0.1), 0px 4px 4px rgba(o,0,0,0.1), opx 2px 2px rgba(0,0,0,0.1), 0px 0px 0px 1px rgba(0,0,0,0.1), insert 0px 1px 0px rgba(255, 255, 255, 0.03)'
+      },
+      backgroundImage: {
+        pattern: 'url(/bg.png)'
       },
     },
   },
