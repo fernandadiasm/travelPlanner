@@ -266,6 +266,7 @@
     </td>
     <td>
       Implement logic to add, edit, and remove daily tasks.
+      <img align="right" src="https://user-images.githubusercontent.com/86276393/213449768-416cc5b4-e3a7-4774-85b8-9a58cb1f8ae6.png" alt="arrow icon" />
     </td>
   </tr>
   <tr>
@@ -306,7 +307,6 @@
     </td>
     <td>
       Deploy the application
-      <img align="right" src="https://user-images.githubusercontent.com/86276393/213449768-416cc5b4-e3a7-4774-85b8-9a58cb1f8ae6.png" alt="arrow icon" />
     </td>
   </tr>
 </table>
